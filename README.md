@@ -20,5 +20,5 @@ The project is fully terminal-based and designed for simplicity.
 
 ##  Current Look
 ![Entry point](img/entry-point.png)
-![Menu](menu.png)
+![Menu](img/menu.png)
 
